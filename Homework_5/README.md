@@ -1,6 +1,6 @@
 ## Homework_5
 
-Implemetion of layers for neural network and backpropagation and building model.
+Implemetion of layers for neural network and backpropagation.
 
 #### Files:
 + hw05_task.ipynb - notebook with tasks;

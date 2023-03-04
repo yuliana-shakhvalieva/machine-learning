@@ -3,8 +3,10 @@
 Homeworks in dicipline "Machine learning".
 
 #### Description:
-+ Homework_1 - implemetion of kNN and k-d tree;
-+ Homework_2 - implemetion of clustering methods: k-means, DBSCAN, agglomerative clustering;
-+ Homework_3 - implemetion of linear regression;
-+ Homework_4 - implemetion of perceptron and testing it on MNIST;
-+ Homework_5 - implemetion of layers for neural network and backpropagation and building model.
++ Homework_1 - kNN and k-d tree;
++ Homework_2 - clustering methods: k-means, DBSCAN, agglomerative clustering;
++ Homework_3 - linear regression;
++ Homework_4 - perceptron on MNIST;
++ Homework_5 - layers for neural network and backpropagation;
++ Homework_6 - encoder and decoder for VAE, building a VAE;
++ Homework_7 - SVM.
