@@ -1,6 +1,6 @@
 ## Homework_6
 
-Implemetion of encoder and decoder for VAE. Building a VAE.
+Implementation of encoder and decoder for VAE. Building a VAE.
 
 #### Files:
 + imgs - folder with structure of VAE;

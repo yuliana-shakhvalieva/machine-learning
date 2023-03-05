@@ -1,6 +1,6 @@
 ## Homework_1
 
-Implemetion of kNN and k-d tree.
+Implementation of kNN and k-d tree.
 
 #### Files:
 + cancer.csv - cancer dataset;

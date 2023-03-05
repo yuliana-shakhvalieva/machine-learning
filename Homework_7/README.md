@@ -1,6 +1,6 @@
 ## Homework_7
 
-Implemetion of SVM.
+Implementation of SVM.
 
 #### Files:
 + hw07_task.ipynb - notebook with tasks;

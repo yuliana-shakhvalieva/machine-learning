@@ -1,6 +1,6 @@
 ## machine-learning
 
-Homeworks in dicipline "Machine learning".
+Homeworks in discipline "Machine learning".
 
 #### Description:
 + Homework_1 - kNN and k-d tree;

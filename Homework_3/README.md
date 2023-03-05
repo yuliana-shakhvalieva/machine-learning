@@ -1,6 +1,6 @@
 ## Homework_3
 
-Implemetion of linear regression.
+Implementation of linear regression.
 
 #### Files:
 + boston.csv - dataset;
