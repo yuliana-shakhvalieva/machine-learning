@@ -9,4 +9,5 @@ Homeworks in discipline "Machine learning".
 + Homework_4 - perceptron on MNIST;
 + Homework_5 - layers for neural network and backpropagation;
 + Homework_6 - encoder and decoder for VAE, building a VAE;
-+ Homework_7 - SVM.
++ Homework_7 - SVM;
++ Homework_8 - Decision tree classifier (CART).
