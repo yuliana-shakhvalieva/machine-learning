@@ -1,6 +1,6 @@
 ## machine-learning
 
-Homeworks in discipline "Machine learning".
+Homeworks on discipline "Machine learning".
 
 #### Description:
 + Homework_1 - kNN and k-d tree;
@@ -11,4 +11,5 @@ Homeworks in discipline "Machine learning".
 + Homework_6 - encoder and decoder for VAE, building a VAE;
 + Homework_7 - SVM;
 + Homework_8 - decision tree classifier (CART);
-+ Homework_9 - random forest classifier, CatBoost.
++ Homework_9 - random forest classifier, CatBoost;
++ Homework_10 - Hill Climb, genetic algorithm and bag of words.
