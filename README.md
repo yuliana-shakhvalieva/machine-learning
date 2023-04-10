@@ -10,4 +10,5 @@ Homeworks in discipline "Machine learning".
 + Homework_5 - layers for neural network and backpropagation;
 + Homework_6 - encoder and decoder for VAE, building a VAE;
 + Homework_7 - SVM;
-+ Homework_8 - Decision tree classifier (CART).
++ Homework_8 - decision tree classifier (CART);
++ Homework_9 - random forest classifier, CatBoost.
